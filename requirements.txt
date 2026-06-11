@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+pymupdf
+langchain
+langchain-community
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+huggingface-hub
+torch
